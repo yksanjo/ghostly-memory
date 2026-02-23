@@ -1,5 +1,12 @@
 # ghostly-memory
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/ghostly-memory/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/ghostly-memory/actions)
+![License](https://img.shields.io/github/license/yksanjo/ghostly-memory)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/ghostly-memory)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/ghostly-memory)
+
 ## Detailed Description
 
 ghostly-memory is maintained as an industry-grade software project with production-ready engineering practices.  
